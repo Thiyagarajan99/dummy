@@ -1,0 +1,32 @@
+#header
+{
+    width: 100%;
+min-width: 980px;
+background-color: #4c66a4;
+}
+#center
+{
+    background-color: dimgray;
+}
+#footer
+{
+    background-color: fuchsia;
+}
+body
+{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(white,#D3D8E8);
+}
+#header form input [type="text"]
+{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 150px;
+    border: 1px solid #08298A;
+    height: 25px;
+    padding-left: 3px;
+}
